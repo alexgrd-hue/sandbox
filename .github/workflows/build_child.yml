@@ -74,4 +74,3 @@ jobs:
           imageTag: uid-${{ inputs.user_id }}
           platform: linux/arm64/v8,linux/amd64
           push: always
-          
